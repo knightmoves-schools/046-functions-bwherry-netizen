@@ -3,7 +3,8 @@ function square(5) {
 }
 
 
-document.getElementById("result").innerHTML = function;
+document.getElementById("result").innerHTML = square;
+
 
 
 
