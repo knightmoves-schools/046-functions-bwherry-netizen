@@ -1,9 +1,10 @@
-function square(5) {
-  return 5 * 5;
+function square(a, a) {
+  return a * a;
 }
 
 
-document.getElementById("result").innerHTML = square;
+document.getElementById("result").innerHTML = square(5, 5);
+
 
 
 
